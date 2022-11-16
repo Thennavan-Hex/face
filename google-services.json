@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425855118205",
+    "project_id": "face-authentication-eea3e",
+    "storage_bucket": "face-authentication-eea3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425855118205:android:e69e2a4781287299a43a14",
+        "android_client_info": {
+          "package_name": "com.example.FaceNet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425855118205-7bdkqt7918s4d9jirsftpkh21dhvna6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgnYuTJdyJNsLnWYkCI8pRCLWBAOjos3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425855118205-7bdkqt7918s4d9jirsftpkh21dhvna6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
